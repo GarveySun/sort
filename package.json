@@ -1,0 +1,25 @@
+{
+  "name": "@garvey/sort",
+  "version": "1.0.0",
+  "description": "some sort function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarveySun/sort.git"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "garveysun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarveySun/sort/issues"
+  },
+  "homepage": "https://github.com/GarveySun/sort#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

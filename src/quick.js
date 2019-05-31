@@ -2,9 +2,9 @@ module.exports =  function quickSort (arr, compareFn) {
 
   if (arr.length <= 1) return arr
 
-  let k_index = Math.floor(arr.length / 2)
-  let k = arr[k_index]
-  let l_arr = [], r_arr = []
+  var k_index = Math.floor(arr.length / 2)
+  var k = arr[k_index]
+  var l_arr = [], r_arr = []
 
   arr.forEach((item, index) => {
     if (index !== k_index) {

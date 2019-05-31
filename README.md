@@ -5,7 +5,6 @@
   <a href="https://www.npmjs.com/package/@garvey/sort"><img src="https://img.shields.io/npm/l/@garvey/sort.svg" alt="License"></a>
   </p>
 
-This library shield sensitive data to show.
 ## use it
 run
 

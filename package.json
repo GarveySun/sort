@@ -1,6 +1,6 @@
 {
   "name": "@garvey/sort",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "some sort function",
   "main": "index.js",
   "scripts": {
